@@ -5,6 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Configurations>Debug;Release;x64</Configurations>
   </PropertyGroup>
 
   <ItemGroup>	  <PackageReference Include="Telegram.Bot" Version="18.0.0" />
